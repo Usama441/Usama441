@@ -1,14 +1,14 @@
 # Hi, I'm Usama Arshad
 
-I build practical software with a focus on clean structure, steady learning, and real-world problem solving. My current work spans web development, C++ automation, and Docker-based development environments.
+I’m a software developer focused on building reliable, maintainable applications across Ruby on Rails, Odoo, and modern web technologies. I work on multiple projects, contribute to open-source development, and care about writing software that solves real business problems with clean architecture and practical execution.
 
 ## About Me
 
-- I’m currently building a School Management System and sharpening my C++ automation workflow.
-- I enjoy working on projects that improve reliability, usability, and maintainability.
-- I’m open to collaborating on open-source work involving React, TypeScript, Ruby, or C++.
-- I’m currently exploring Docker for C++ projects, scalable system design, and stronger automation with Makefiles.
-- I also bring a creative and operational mindset, balancing technical problem-solving with practical execution.
+- I work across multiple projects involving Ruby on Rails, Odoo, and web application development.
+- My focus is on building scalable, maintainable systems with clean code and efficient workflows.
+- I actively contribute to open-source work and enjoy collaborating on useful, production-oriented software.
+- I’m continuously improving my skills in backend development, system design, automation, and deployment.
+- I value practical problem-solving, strong structure, and software that delivers clear business impact.
 
 ## What I Work With
 
