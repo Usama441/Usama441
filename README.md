@@ -41,8 +41,7 @@ I like working with people who care about thoughtful engineering, clear communic
 
 ## Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569284345216)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/usamaarshad_526)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/usamaarshad_526/?utm_source=ig_web_button_share_sheet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-arshad-682975231/)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/usamaarshad441)
 
